@@ -1,0 +1,24 @@
+body {
+  background-color: dimgray;
+}
+.App{
+  margin: 50px;
+}
+.App div{
+  text-align: center;
+}
+.search{
+  padding: 15px;
+  font-size: 20px;
+}
+.list{
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+.list-item{
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: black;
+  font-weight:300;
+}
